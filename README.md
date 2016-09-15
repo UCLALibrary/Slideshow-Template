@@ -11,9 +11,14 @@ This Slideshow Template is configured with UCLA colors and simple layout. Howeve
 
 ## Quick Start
 ### Host on github
+
 ####
-1. Create a repo for the slides
-- ##### [https://github.com/new](https://github.com/new)
+
+2. 1. Create a repo for the slides
+
+#####
+
+- [https://github.com/new](https://github.com/new)
 
 #### 2. Clone the new repo to your workstation
 
