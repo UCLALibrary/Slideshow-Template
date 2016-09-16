@@ -11,7 +11,7 @@ This Slideshow Template is configured with UCLA colors and simple layout. Howeve
 
 #### 2. Clone the new repo to your workstation
 
-- ```bash
+```bash
 git clone https://github.com/yourUserName/repoName.git
 e.g.
 git clone https://github.com/darrowco/slideshow.git
