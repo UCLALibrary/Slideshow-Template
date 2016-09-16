@@ -4,20 +4,9 @@ The Slideshow Template lets you to easily make a nice online slideshow. It is ba
 
 This Slideshow Template is configured with UCLA colors and simple layout. However, it can be easily repurposed to meet your needs by altering the HTML or using the reveal.js framework's broad range of features (found at the [reveal.js github page](https://github.com/hakimel/reveal.js/blob/master/README.md)).
 
-
-
-[TOC]
-
-
 ## Quick Start
 ### Host on github
-
-####
-
-2. 1. Create a repo for the slides
-
-#####
-
+#### 1. Create a repo for the slides
 - [https://github.com/new](https://github.com/new)
 
 #### 2. Clone the new repo to your workstation
