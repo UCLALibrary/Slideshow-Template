@@ -19,7 +19,7 @@ git clone https://github.com/darrowco/slideshow.git
 
 #### 3. Create a _gh-pages_ branch
 
-- ```bash
+ ```bash
 cd repoName
 git checkout --orphan gh-pages
 ```
